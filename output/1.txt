@@ -1,0 +1,12 @@
+Hasil Pencarian Puzzle
+======================
+Waktu Eksekusi: 2 ms
+Jumlah Kasus yang Ditinjau: 66
+Tautan Gambar Solusi: image/solution1.png
+
+Solusi Papan:
+A A B C C 
+D A B B C 
+D D E E E 
+G G G E E 
+G G F F F 

@@ -1,0 +1,20 @@
+6 8 10
+Default
+AAAAA
+BB
+BBBB 
+CCC
+CC  
+DDDDD
+ D  
+EEEE
+ E  
+FFF
+FFF  
+GGG
+G  
+HHHHH
+III
+ III
+ JJJ
+JJJ 
